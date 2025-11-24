@@ -139,7 +139,6 @@ using Devart.Data.Salesforce.EFCore;
 
 namespace EfCoreSalesforceDemo
 {
-  // Map to Salesforce Account object
   public class Account
   {
       public string Id { get; set; } = "";

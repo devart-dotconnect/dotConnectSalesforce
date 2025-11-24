@@ -1,4 +1,5 @@
-![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.Salesforce?color=informational&label=latest)![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.Salesforce?color=informational&label=installs&logo=nuget)
+[![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.Salesforce?color=informational&label=latest)](https://www.nuget.org/packages/Devart.Data.Salesforce) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.Salesforce?color=informational&label=Devart.Data.Salesforce&logo=nuget)](https://www.nuget.org/packages/Devart.Data.Salesforce) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.Salesforce.EFCore?color=informational&label=Devart.Data.Salesforce.EFCore&logo=nuget)](https://www.nuget.org/packages/Devart.Data.Salesforce.EFCore)
+
 
 ## .NET Connector for Salesforce With ORM Support
 
